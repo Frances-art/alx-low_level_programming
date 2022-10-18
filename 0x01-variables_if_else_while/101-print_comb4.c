@@ -31,6 +31,8 @@ for (i = 48; i < 58; i++)
 			putchar(' ');
 			}
 		}
-		('\n');
-		 (0);
+	}
+}
+		putchar('\n');
+		 return (0);
 	}
